@@ -77,6 +77,7 @@ export class BroadcastOperator<EmitEvents extends EventsMap, SocketData>
     );
   }
 
+  
   /**
    * Sets the compress flag.
    *
